@@ -3,7 +3,7 @@
 - Data imputation for body temperature, blood oxygen, & sleeping hours.
 - Utilized machine learning algorithms  for stress level prediction (0-3).
   
-### *Tech Stack*: PuTTY, ThingSpeak, Streamlit, Random Forest, LR, DT.
+#### *Tech Stack*: PuTTY, ThingSpeak, Streamlit, Random Forest, LR, DT.
 #### *Hardware*: Arduino Uno, MAX3010 Pulse & SPo2 sensor, Vibration sensor.
 
 # Web Interface
