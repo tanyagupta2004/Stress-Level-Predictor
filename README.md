@@ -9,10 +9,10 @@
 # Web Interface
 ![image](https://github.com/tanyagupta2004/Stress-Level-Predictor/assets/82495563/7e1b327f-e507-42ee-938c-e44b6fff2997)
 
-         _When Person is not Stressed_
+         When Person is not Stressed
 
 ![image](https://github.com/tanyagupta2004/Stress-Level-Predictor/assets/82495563/b3807a0f-f557-4010-9dab-29dc84cb61ba)
 
-       _When Person is Stressed_
+       When Person is Stressed
 
 
